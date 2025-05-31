@@ -3,6 +3,7 @@ Projet de fin d’études - Licence en Informatique
 
 # Database
 File name: fleur.sql
+
 Location: Root directory of the project
 Usage instructions:
 
