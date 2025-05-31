@@ -6,6 +6,7 @@ Projet de fin d’études - Licence en Informatique
 - `stylee.css`: Stylesheet
 - `js/`: JavaScript files
 - `flowers/`: Uploaded product images
+-`video/`: un video
 - `fleur.sql`: 💾 MySQL database file (import into phpMyAdmin)
 
 ## 💾 Database
