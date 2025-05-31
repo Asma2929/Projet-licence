@@ -81,7 +81,7 @@ if(isset($_POST['add_to_cart'])){
 <?php @include 'header.php'; ?>
 
 <section class="heading">
-    <h3>search page</h3>
+    <h3 class ="animate__animated animate__fadeInBottomRight" >search page</h3>
     <p> <a href="home.php">home</a> / search </p>
 </section>
 
