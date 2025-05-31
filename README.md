@@ -1,15 +1,23 @@
 # Projet-licence
 Projet de fin d’études - Licence en Informatique
 
-# Database
-File name: fleur.sql
+## 📁 Project Structure
+- `index.php`: Homepage
+- `style.css`: Stylesheet
+- `js/`: JavaScript files
+- `uploaded_img/`: Uploaded product images
+- `fleur.sql`: 💾 MySQL database file (import into phpMyAdmin)
 
-Location: Root directory of the project
-Usage instructions:
+## 💾 Database
+- File: `fleur.sql`
+- Create a database in phpMyAdmin named `fleur`
+- Import `fleur.sql`
 
-1/Open phpMyAdmin
+## 🧪 Technologies Used
+- HTML, CSS, JavaScript
+- PHP & MySQL
+- phpMyAdmin (XAMPP)
 
-2/Create a new database (e.g., fleur)
-
-3/Import the fleur.sql file into the newly created database
+## 📸 Screenshots
+_Add screenshots of your website interface here._
 
