@@ -19,6 +19,5 @@ Projet de fin d’études - Licence en Informatique
 - PHP & MySQL
 - phpMyAdmin (XAMPP)
 
-## 📸 Screenshots
-_Add screenshots of your website interface here._
+
 
