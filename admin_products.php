@@ -108,7 +108,7 @@ if (isset($_GET['delete'])) {
          <option value="adminweek">Admin week</option>
          <option value="orchid">Orchid</option>
          <option value="succulents">Succelents</option>
-         <option value="house">house&green plants</option>
+         <option value="house">house plants</option>
          <option value="european">european plants</option>
 
 
