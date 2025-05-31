@@ -50,7 +50,7 @@ if(isset($_POST['update_quantity'])){
 <?php @include 'header.php'; ?>
 
 <section class="heading">
-    <h3>shopping cart</h3>
+    <h3 class ="animate__animated animate__fadeInBottomRight" >shopping cart</h3>
     <p> <a href="home.php">home</a> / cart </p>
 </section>
 
