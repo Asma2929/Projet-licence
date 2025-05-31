@@ -50,7 +50,7 @@ if(isset($_POST['send'])){
 <?php @include 'header.php'; ?>
 
 <section class="heading">
-    <h3>contact us</h3>
+   <h3 class ="animate__animated animate__fadeInBottomRight" >contact  us</h3>
     <p> <a href="home.php">home</a> / contact </p>
 </section>
 
