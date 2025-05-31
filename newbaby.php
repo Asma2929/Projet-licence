@@ -81,8 +81,8 @@ if(isset($_POST['add_to_cart'])){
 <?php @include 'header.php'; ?>
 
 <section class="heading">
-    <h3 class ="animate__animated animate__fadeInBottomRight" >New Baby Flowers & Gifts</h3>
-    <p> <a href="home.php">home/ shop</a>  / birthday</p>
+    <h3 class ="animate__animated animate__fadeInBottomRight" >New Baby Flowers</h3>
+    <p> <a href="home.php">home/ shop</a>  / New Baby Flowers</p>
 </section>
 
 <section class="products">
