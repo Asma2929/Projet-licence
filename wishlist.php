@@ -69,7 +69,7 @@ if(isset($_GET['delete_all'])){
 <?php @include 'header.php'; ?>
 
 <section class="heading">
-    <h3>your wishlist</h3>
+   <h3 class ="animate__animated animate__fadeInBottomRight" >your wishlist</h3>
     <p> <a href="home.php">home</a> / wishlist </p>
 </section>
 
