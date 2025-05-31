@@ -2,10 +2,10 @@
 Projet de fin d’études - Licence en Informatique
 
 ## 📁 Project Structure
-- `index.php`: Homepage
-- `style.css`: Stylesheet
+- `home.php`: Homepage
+- `stylee.css`: Stylesheet
 - `js/`: JavaScript files
-- `uploaded_img/`: Uploaded product images
+- `flowers/`: Uploaded product images
 - `fleur.sql`: 💾 MySQL database file (import into phpMyAdmin)
 
 ## 💾 Database
