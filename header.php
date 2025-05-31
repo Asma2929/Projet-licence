@@ -71,7 +71,7 @@ if(isset($message)){
                         <li><a href="european.php">european plan gardens</a></li>
                         <li><a href="orchid.php">orchid ans tropical plants</a></li>
                         <li><a href="succulents.php">succulents and terrariums</a></li>
-                        <li><a href="house.php">house & green plants</a></li>
+                        <li><a href="house.php">house plants</a></li>
                         
                         
                     </ul>
